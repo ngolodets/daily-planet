@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightgray;
+  font-family: 'Roboto Slab', serif;
+}
+input {
+  border: 2px solid black;
+  margin: 5px;
+  color: rgb(169, 6, 6);
+  background-color: lightgray;
+  font-size: 15px;
+}
+.changes {
+  text-decoration: none;
+  color: rgb(169, 6, 6);
+  border: 2px solid black;
+  height: 30px;
+  width: 70px;
+  margin: 5px;
+  
+}
